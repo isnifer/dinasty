@@ -1,0 +1,144 @@
+body {
+  margin: 0 auto;
+}
+p {
+  font-family: "RobotoRegular";
+  
+}
+img {
+  max-width: 100%
+}
+A{
+  color: black;
+  font-size: italic;
+}
+#content5 {
+    color: black;
+    margin-top: 26 00px;
+  vertical-align: top;
+   }
+#content4 {
+    color: black;
+    margin-top: 1500px;
+  vertical-align: top;
+   }
+#content3 {
+    color: black;
+    margin-top: 2000px;
+  vertical-align: top;
+   }
+#content {
+    color: black;
+    margin-top: 1000px;
+  vertical-align: top;
+   }
+.list{
+  color: black;
+  top: 82px; /* Расстояние от верхнего края */
+    left: 170px; /* Расстояние от левого края */ 
+    bottom: 0; right: 0;
+  margin: 0 ;
+  margin-top: ;
+  vertical-align: top;
+}
+.floatleft {
+		float:left;
+		clear:left;
+		position:relative;
+		border: 1px solid #333;
+        padding: 7px; 
+        margin: 10px 0 5px 5px; 
+        background: #f0f0f0; 
+		margin:0.5em 1.4em 0.8em 0
+	}
+.floatleft1 {
+		float:left;
+		clear:left;
+		position:relative;
+		border: 1px solid #333;
+        padding: 7px; 
+        margin: 10px 0 5px 5px; 
+        background: #f0f0f0;
+		margin:0.5em 1.4em 0.8em 0
+	}
+.floatleft2 {
+		float:right;
+		clear:right;
+		position:relative;
+		border: 1px solid #333;
+        padding: 7px; 
+        margin: 10px 0 5px 5px; 
+        background: #f0f0f0;
+		margin:0.5em 1.4em 0.8em 0
+	}
+.biogr {
+	text-indent: 60px;
+	color: #3e0612;
+	text-transform: uppercase;
+}
+.q{
+color: #3e0612;
+font-style: italic;
+text-decoration: underline;
+}
+.q1 {
+color: #3e0612;
+font-style: italic;
+text-decoration: underline;
+}
+.q2{
+color: #3e0612;
+font-style: italic;
+text-decoration: underline;
+}
+.q3{
+color: #3e0612;
+font-style: italic;
+text-decoration: underline;
+}
+.qw {
+color: #3e0612;
+font-style: italic;
+text-decoration: underline;
+}
+.qwe {
+color: #3e0612;
+font-style: italic;
+text-decoration: underline;
+}
+.qwer {
+color: #3e0612;
+font-style: italic;
+text-decoration: underline;
+}
+.qwert {
+color: #3e0612;
+font-style: italic;
+text-decoration: underline;
+}
+.a{
+	margin: 0 50px 10px 120px;
+}
+   TD#leftcol {
+    width: 200px; 
+    background: #ccc; 
+   }
+   TD#rightcol {
+    background-image: images/london.jpg 
+   }
+   .b {
+   	border: 1px solid #333;
+        padding: 7px; 
+        margin: 10px 0 5px 5px; 
+        background: #dfdfdf;
+		margin:0.5em 1.4em 0.8em 0
+   }
+   .zx {
+   	color: black;
+    text-indent: 45%;
+    font-size:40px;
+   }
+   .df{
+    margin: 0 auto;
+    background-size: 100%;
+   }
