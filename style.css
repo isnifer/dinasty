@@ -1,9 +1,11 @@
 body {
-  margin: 0 auto;
+    margin: 0 auto;
+    background: url('images/london3.jpg') no-repeat center;
+    background-size: cover;
 }
 p {
   font-family: "RobotoRegular";
-  
+
 }
 img {
   max-width: 100%
@@ -35,7 +37,7 @@ A{
 .list{
   color: black;
   top: 82px; /* Расстояние от верхнего края */
-    left: 170px; /* Расстояние от левого края */ 
+    left: 170px; /* Расстояние от левого края */
     bottom: 0; right: 0;
   margin: 0 ;
   margin-top: ;
@@ -46,9 +48,9 @@ A{
 		clear:left;
 		position:relative;
 		border: 1px solid #333;
-        padding: 7px; 
-        margin: 10px 0 5px 5px; 
-        background: #f0f0f0; 
+        padding: 7px;
+        margin: 10px 0 5px 5px;
+        background: #f0f0f0;
 		margin:0.5em 1.4em 0.8em 0
 	}
 .floatleft1 {
@@ -56,8 +58,8 @@ A{
 		clear:left;
 		position:relative;
 		border: 1px solid #333;
-        padding: 7px; 
-        margin: 10px 0 5px 5px; 
+        padding: 7px;
+        margin: 10px 0 5px 5px;
         background: #f0f0f0;
 		margin:0.5em 1.4em 0.8em 0
 	}
@@ -66,8 +68,8 @@ A{
 		clear:right;
 		position:relative;
 		border: 1px solid #333;
-        padding: 7px; 
-        margin: 10px 0 5px 5px; 
+        padding: 7px;
+        margin: 10px 0 5px 5px;
         background: #f0f0f0;
 		margin:0.5em 1.4em 0.8em 0
 	}
@@ -120,25 +122,49 @@ text-decoration: underline;
 	margin: 0 50px 10px 120px;
 }
    TD#leftcol {
-    width: 200px; 
-    background: #ccc; 
+    width: 200px;
+    background: #ccc;
    }
    TD#rightcol {
-    background-image: images/london.jpg 
+    background-image: images/london.jpg
    }
    .b {
    	border: 1px solid #333;
-        padding: 7px; 
-        margin: 10px 0 5px 5px; 
+        padding: 7px;
+        margin: 10px 0 5px 5px;
         background: #dfdfdf;
 		margin:0.5em 1.4em 0.8em 0
    }
-   .zx {
-   	color: black;
-    text-indent: 45%;
-    font-size:40px;
-   }
-   .df{
+
+.header {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 40px;
+}
+
+.tree {
+    border: 30%;
+    border-spacing: 0 0;
+    font-size: 90%;
+    line-height: 100%;
+    width: 90%;
     margin: 0 auto;
-    background-size: 100%;
-   }
+}
+
+.tree__tr {
+    text-align: center;
+    min-height: 1px;
+}
+
+.tree__td {
+    border: 3px solid black;
+    padding: 0.2em;
+}
+
+.tree__td_parents {
+    background-color: #beaeb1;
+}
+
+.tree__td_children {
+    background-color: #cfcfcf;
+}
