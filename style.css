@@ -44,39 +44,39 @@ A{
   vertical-align: top;
 }
 .floatleft {
-		float:left;
-		clear:left;
-		position:relative;
-		border: 1px solid #333;
+        float:left;
+        clear:left;
+        position:relative;
+        border: 1px solid #333;
         padding: 7px;
         margin: 10px 0 5px 5px;
         background: #f0f0f0;
-		margin:0.5em 1.4em 0.8em 0
-	}
+        margin:0.5em 1.4em 0.8em 0
+    }
 .floatleft1 {
-		float:left;
-		clear:left;
-		position:relative;
-		border: 1px solid #333;
+        float:left;
+        clear:left;
+        position:relative;
+        border: 1px solid #333;
         padding: 7px;
         margin: 10px 0 5px 5px;
         background: #f0f0f0;
-		margin:0.5em 1.4em 0.8em 0
-	}
+        margin:0.5em 1.4em 0.8em 0
+    }
 .floatleft2 {
-		float:right;
-		clear:right;
-		position:relative;
-		border: 1px solid #333;
+        float:right;
+        clear:right;
+        position:relative;
+        border: 1px solid #333;
         padding: 7px;
         margin: 10px 0 5px 5px;
         background: #f0f0f0;
-		margin:0.5em 1.4em 0.8em 0
-	}
+        margin:0.5em 1.4em 0.8em 0
+    }
 .biogr {
-	text-indent: 60px;
-	color: #3e0612;
-	text-transform: uppercase;
+    text-indent: 60px;
+    color: #3e0612;
+    text-transform: uppercase;
 }
 .q{
 color: #3e0612;
@@ -119,7 +119,7 @@ font-style: italic;
 text-decoration: underline;
 }
 .a{
-	margin: 0 50px 10px 120px;
+    margin: 0 50px 10px 120px;
 }
    TD#leftcol {
     width: 200px;
@@ -129,11 +129,11 @@ text-decoration: underline;
     background-image: images/london.jpg
    }
    .b {
-   	border: 1px solid #333;
+    border: 1px solid #333;
         padding: 7px;
         margin: 10px 0 5px 5px;
         background: #dfdfdf;
-		margin:0.5em 1.4em 0.8em 0
+        margin:0.5em 1.4em 0.8em 0
    }
 
 .header {
